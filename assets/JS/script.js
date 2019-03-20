@@ -95,6 +95,8 @@ $(document).ready(function() {
       wins++;
       $('#win').html(wins);
       score = 0;
+
+      // Note: Just trying out vanilla JS in this line
       document.querySelector('.scoreTallyDiv').innerHTML = score;
       randomNumber = Math.floor(Math.random() * 99 + 1);
       $('.randomNumDiv').html(randomNumber);
