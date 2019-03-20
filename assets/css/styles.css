@@ -1,0 +1,27 @@
+.randomNumDiv {
+  height: 20px;
+  padding: 20px 0px 40px 20px;
+  background: green;
+  width: 500px;
+  text-align: center;
+  font-size: 2rem;
+}
+.scoreTallyDiv {
+  height: 100px;
+  width: 500px;
+  background: teal;
+  text-align: center;
+  font-size: 2rem;
+}
+.crystalDiv {
+  height: 170px;
+  width: 500px;
+}
+.crystal {
+  float: left;
+  margin-left: 13px;
+}
+.crystal img {
+  height: 7rem;
+  width: 7rem;
+}
